@@ -1,0 +1,28 @@
+Participant Private ID,experiment,list,experiment_order,Age Range,Declared Field,Gender,Minimum Wage,State of Birth,specialist
+12345605,MOS,A,1,35–44,Speech Tech/CS,Male,10+ SM,São Paulo (SP),TRUE
+12345606,MOS,A,1,25–34,Speech Tech/CS,Female,10+ SM,São Paulo (SP),TRUE
+12361124,MOS,A,1,55–64,No formal background,Female,10+ SM,São Paulo (SP),TRUE
+12345607,MOS,A,1,18–24,Linguistics/Phonetics,Male,2–4 SM,São Paulo (SP),TRUE
+12345604,MOS,A,1,18–24,No formal background,Male,2–4 SM,São Paulo (SP),TRUE
+12345597,MOS,A,1,25–34,Linguistics/Phonetics,Male,2–4 SM,Alagoas (AL),TRUE
+12359752,MOS,A,1,65+,Linguistics/Phonetics,Female,10+ SM,Pernambuco (PE),TRUE
+12472737,MOS,A,2,35–44,Linguistics/Phonetics,Female,10+ SM,São Paulo (SP),TRUE
+12472738,MOS,A,2,25–34,Speech Tech/CS,Female,2–4 SM,Bahia (BA),TRUE
+12472739,MOS,A,2,25–34,Linguistics/Phonetics,Male,2–4 SM,Alagoas (AL),TRUE
+12472740,MOS,A,2,25–34,Linguistics/Phonetics,Female,4–10 SM,São Paulo (SP),TRUE
+12472741,MOS,A,2,25–34,Linguistics/Phonetics,Male,2–4 SM,Mato Grosso (MT),TRUE
+12472742,MOS,A,2,25–34,Sound Engineer,Male,4–10 SM,São Paulo (SP),TRUE
+12472743,MOS,A,2,25–34,No formal background,Male,4–10 SM,São Paulo (SP),TRUE
+12472744,MOS,A,2,35–44,Linguistics/Phonetics,Female,1–2 SM,Alagoas (AL),TRUE
+12345633,MOS,B,1,25–34,Speech Tech/CS,Male,4–10 SM,São Paulo (SP),TRUE
+12345634,MOS,B,1,18–24,Speech Tech/CS,Male,2–4 SM,São Paulo (SP),TRUE
+12345635,MOS,B,1,35–44,Speech Tech/CS,Male,10+ SM,São Paulo (SP),TRUE
+12345636,MOS,B,1,18–24,Speech Tech/CS,Male,4–10 SM,Rio de Janeiro (RJ),TRUE
+12345631,MOS,B,1,18–24,Speech Tech/CS,Female,10+ SM,São Paulo (SP),TRUE
+12345627,MOS,B,1,25–34,Linguistics/Phonetics,Male,2–4 SM,Alagoas (AL),TRUE
+12472845,MOS,B,2,25–34,Speech Tech/CS,Male,4–10 SM,São Paulo (SP),TRUE
+12472846,MOS,B,2,55–64,Speech Tech/CS,Female,10+ SM,São Paulo (SP),TRUE
+12472847,MOS,B,2,35–44,Linguistics/Phonetics,Male,4–10 SM,Minas Gerais (MG),TRUE
+12472848,MOS,B,2,18–24,Speech Tech/CS,Male,4–10 SM,São Paulo (SP),TRUE
+12472849,MOS,B,2,25–34,Speech Tech/CS,Male,4–10 SM,São Paulo (SP),TRUE
+12472851,MOS,B,2,55–64,Clinical/Biomedical,Female,10+ SM,São Paulo (SP),TRUE
