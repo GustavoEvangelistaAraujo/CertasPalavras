@@ -11,7 +11,7 @@ A Brazilian Portuguese radio corpus of spontaneous, multi-speaker broadcast dial
 
 ---
 <audio controls>
-  <source src="audio/0220-CP727_1309.43-1317.47.wav" type="audio/wav">
+  <source src="0220-CP727_1309.43-1317.47.wav" type="audio/wav">
 </audio>
 
 ---
