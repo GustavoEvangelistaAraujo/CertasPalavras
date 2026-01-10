@@ -1,9 +1,15 @@
-# Certas Palavras
-**A 1980s–90s Brazilian Radio Corpus to Test TTS Models in Noisy Multi-Speaker Dialogues (PROPOR 2026)**
+<h1 align="center">
+Certas Palavras: A 1980s–90s Brazilian Radio Corpus to Test TTS Models in Noisy Multi-Speaker Dialogues
+</h1>
+
+<p align="center">
+PROPOR 2026
+</p>
 License: CC BY-NC-ND 4.0
 
 A Brazilian Portuguese radio corpus of spontaneous, multi-speaker broadcast dialogues (1980s–1990s) designed for **robustness-oriented speech synthesis and evaluation** under real acoustic conditions (music beds, jingles, channel noise, overlap, hesitations, and repair phenomena).
 
+---
 <audio controls>
   <source src="audio/0220-CP727_1309.43-1317.47.wav" type="audio/wav">
 </audio>
@@ -16,7 +22,7 @@ A Brazilian Portuguese radio corpus of spontaneous, multi-speaker broadcast dial
 **Speaker composition (high-level):**
 - **2 main hosts**: Claudiney Ferreira, Jorge Vasconcelos  
 - **1 co-host**: Ivan Lessa  
-- **Guest speakers**: 133 male, 55 female 
+- **Guest speakers**: 136 male, 54 female 
 
 ---
 
@@ -26,7 +32,7 @@ Compared to interview-style or read-speech corpora, broadcast dialogues exhibit:
 - **Frequent filled pauses and repairs** (e.g., hesitations, rephrasings)
 - **Non-stationary acoustic conditions** (music, jingles, on-air artifacts)
 - **Substantial speaker diversity** (hosts + large guest pool)
-- **Rich demographic speaker information** (city/state/country of birth, 
+- **Demographic speaker information** (city/state/country of birth)
 
 This design supports experiments on:
 - robustness of TTS and ASR under noise and interference,
@@ -37,7 +43,7 @@ This design supports experiments on:
 ---
 
 ## Statistics
-**Table 2: Detailed statistics of Certas Palavras.**
+**Table 1: Detailed statistics of Certas Palavras.**
 
 | feature | total |
 |---|---:|
