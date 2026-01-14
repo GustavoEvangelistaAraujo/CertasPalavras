@@ -6,3 +6,6 @@ models/**/speakers.json
 # TensorBoard logs
 **/runs/
 **/tb_logs/
+models/**/checkpoint_*.pth
+models/**/events.out.tfevents.*
+models/**/speakers.json
