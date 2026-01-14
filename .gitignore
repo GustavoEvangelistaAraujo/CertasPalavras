@@ -9,3 +9,6 @@ models/**/speakers.json
 models/**/checkpoint_*.pth
 models/**/events.out.tfevents.*
 models/**/speakers.json
+models/**/checkpoint_*.pth
+models/**/events.out.tfevents.*
+models/**/speakers.json
