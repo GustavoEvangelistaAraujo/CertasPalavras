@@ -5,7 +5,7 @@ Certas Palavras: A 1980s–90s Brazilian Radio Corpus to Test TTS Models in Nois
 <p align="center">
 PROPOR 2026
 </p>
-License: CC BY-NC-NC 4.0
+License: CC BY-NC 4.0
 
 A Brazilian Portuguese radio corpus of spontaneous, multi-speaker broadcast dialogues (1980s–1990s) designed for **robustness-oriented speech synthesis and evaluation** under real acoustic conditions (music beds, jingles, channel noise, overlap, hesitations, and repair phenomena).
 
